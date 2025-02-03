@@ -1,17 +1,16 @@
 [![MasterHead](https://api.careers.fresenius.com/images/3cba469c-79f7-41bf-981f-ac84a5de8130/f243c32b400e51b618802568e21a8a2e2c6d413ae2e0ba603bcf9fa75e94623319960d00-46df20b92c787041f3ed030402a3d6bdec2ef3d14778dcce)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Youness Killich 😀</h1>
-<h3 align="center">I'm a Data Scientist</h3>
+<h3 align="center">I'm a Data Scientist / DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 
 <h4 align="left">I have technical experience and interest in:</h4>
 <ul>
-  <li>Deep Learning</li>
   <li>Machine Learning</li>
-  <li>Computer Vision</li>
   <li>Natural Language Processing</li>
   <li>MLOps</li>
+  <li>DevOps</li>
   <li>Generative AI</li>
 </ul>
 
