@@ -43,7 +43,6 @@
 
 <!-- MLOps -->
 <p align="left">
-  <a href="https://www.dvc.org/" target="_blank"><img src="https://dvc.org/img/logo.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
 </p>
 
