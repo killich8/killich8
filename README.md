@@ -30,24 +30,19 @@
 <!-- DevOps -->
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://www.svgrepo.com/show/373761/docker-compose.svg" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
   <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.vaultproject.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
 </p>
 
 <!-- MLOps -->
 <p align="left">
-  <a href="https://mlflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" height="40"/></a>
   <a href="https://www.dvc.org/" target="_blank"><img src="https://dvc.org/img/logo.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
 </p>
